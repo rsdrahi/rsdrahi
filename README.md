@@ -1,3 +1,4 @@
+<img width="1584" height="396" alt="banner" src="https://github.com/user-attachments/assets/43227b69-f53f-4980-8a33-f0bbba711b56" />
 # <h1 align="center">Hi 👋, I'm Rasheduzzaman Rahi</h1>
 
 <h3 align="center">MERN Stack Developer | Passionate Web Developer | Lifelong Learner</h3>
