@@ -13,7 +13,7 @@
 
 I'm a passionate **MERN Stack Developer** from **Bangladesh** who enjoys building modern, responsive, and user-friendly web applications.
 
-* 🌱 Currently learning **Next.js** and advanced backend development.
+* 🌱 Currently learning **TypeScript** and advanced backend development.
 * 💻 Working on **StartupForge**, a Startup Team Builder Platform.
 * 📚 Improving my JavaScript and problem-solving skills.
 * 🎯 Goal: Become a professional Full Stack Developer.
@@ -65,26 +65,6 @@ I'm a passionate **MERN Stack Developer** from **Bangladesh** who enjoys buildin
 <a href="mailto:your-email@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rsdrahi&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsdrahi&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=rsdrahi&theme=tokyonight"/>
 </p>
 
 ---
