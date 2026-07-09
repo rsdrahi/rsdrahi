@@ -1,5 +1,5 @@
 <img width="1584" height="396" alt="Banner" src="https://github.com/user-attachments/assets/686327e5-8138-4ca1-8990-0628cfa978df" />
-# <h1 align="center">Hi 👋, I'm Rasheduzzaman Rahi</h1>
+<h1 align="center">Hi 👋, I'm Rasheduzzaman Rahi</h1>
 
 <h3 align="center">Frontend Developer | Passionate Web Developer | Lifelong Learner</h3>
 
@@ -11,9 +11,9 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Frontend** from **Bangladesh** who enjoys building modern, responsive, and user-friendly web applications.
+I'm a passionate **Frontend Developer** from **Bangladesh** who enjoys building modern, responsive, and user-friendly web applications.
 
-* 🌱 Currently learning **TypeScript** and advanced backend development.
+* 🌱 Currently learning **TypeScript** and advanced Backend development.
 * 💻 Working on **StartupForge**, a Startup Team Builder Platform.
 * 📚 Improving my JavaScript and problem-solving skills.
 * 🎯 Goal: Become a professional Full Stack Developer.
@@ -49,6 +49,17 @@ I'm a passionate **Frontend** from **Bangladesh** who enjoys building modern, re
 <img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,figma" />
 </p>
 
+### UI Libraries
+
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge)
+![HeroUI](https://img.shields.io/badge/HeroUI-000000?style=for-the-badge)
+
+### 🚀 Deployment
+
+<p>
+<img src="https://skillicons.dev/icons?i=vercel,netlify" />
+</p>
 ---
 
 ## 🌐 Connect with Me
