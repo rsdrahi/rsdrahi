@@ -55,12 +55,11 @@ I'm a passionate **Frontend Developer** from **Bangladesh** who enjoys building 
 ![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge)
 ![HeroUI](https://img.shields.io/badge/HeroUI-000000?style=for-the-badge)
 
-### 🚀 Deployment
+###  Deployment
 
 <p>
 <img src="https://skillicons.dev/icons?i=vercel,netlify" />
 </p>
----
 
 ## 🌐 Connect with Me
 
