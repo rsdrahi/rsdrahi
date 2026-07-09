@@ -1,7 +1,7 @@
 <img width="1584" height="396" alt="banner" src="https://github.com/user-attachments/assets/43227b69-f53f-4980-8a33-f0bbba711b56" />
 # <h1 align="center">Hi 👋, I'm Rasheduzzaman Rahi</h1>
 
-<h3 align="center">MERN Stack Developer | Passionate Web Developer | Lifelong Learner</h3>
+<h3 align="center">Frontend Developer | Passionate Web Developer | Lifelong Learner</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Frontend+Developer;Building+Real-World+Projects;Learning+TypeScript;Always+Learning+New+Technologies" alt="Typing SVG" />
