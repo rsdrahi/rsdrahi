@@ -4,14 +4,14 @@
 <h3 align="center">MERN Stack Developer | Passionate Web Developer | Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Building+Real-World+Projects;Learning+Next.js;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Frontend+Developer;Building+Real-World+Projects;Learning+TypeScript;Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I'm a passionate **MERN Stack Developer** from **Bangladesh** who enjoys building modern, responsive, and user-friendly web applications.
+I'm a passionate **Frontend** from **Bangladesh** who enjoys building modern, responsive, and user-friendly web applications.
 
 * 🌱 Currently learning **TypeScript** and advanced backend development.
 * 💻 Working on **StartupForge**, a Startup Team Builder Platform.
